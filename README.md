@@ -1,8 +1,8 @@
 # github-demo
 
-A demo GitHub repository for introducing students to Git and GitHub. You will need a GitHub account to proceed, make sure you [login](https://github.com/login) or [register](https://github.com/signup). 
+This is a demo GitHub repository for introducing students to Git and GitHub. You will need a GitHub account to proceed. Make sure you [login](https://github.com/login) or [register](https://github.com/signup). 
 
-Please take a moment to notice that the registration page acts like the command line! That's kind of awesome!
+Please take a moment to notice that the registration page acts like a command line! That's kind of awesome!
 
 ![GitHub Registration](https://raw.githubusercontent.com/codeadamca/github-demo/main/screenshot-register.png)
 
@@ -99,4 +99,21 @@ You are now setup and ready to follow the development cylcle instructions below.
 
 ## Development Cycle
 
+Now that you have access to the repository and a local copy, it's time to make some changes!
+
+Open up the IDE of your choice. I will be using [Visual Studio Code](https://code.visualstudio.com/). Using your IDE open the folder that contains your repository. Also open up a terminal or command prompt and change the folder to the same repository. 
+
+1. In the terminal check on the Git status of your code:
+
+```
+git status
+```
+
+You will be given a summary of which branch you are working on and a list of files that have changed. At this point you should be on the branched called ```main``` and there should not be any changes that need to be commited. If there were changes, the files would be listed in red text.
+
+```
+On branch main
+Your branch is up to date with 'origin/main'.
+nothing to commit, working tree clean
+```
 
