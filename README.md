@@ -1,6 +1,10 @@
 # github-demo
 
-A demo GitHub repository for introducing students to Git and GitHub. 
+A demo GitHub repository for introducing students to Git and GitHub. You will need a GitHub account to proceed, make sure you [login](https://github.com/login) or [register](https://github.com/signup). 
+
+Please take a moment to notice that the registration page acts like the command line!
+
+IMAGE
 
 ## Initial Setup
 
