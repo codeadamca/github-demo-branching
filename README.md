@@ -4,7 +4,7 @@ A demo GitHub repository for introducing students to Git and GitHub. You will ne
 
 Please take a moment to notice that the registration page acts like the command line! That's kind of awesome!
 
-IMAGE
+![GitHub Registration](https://raw.githubusercontent.com/codeadamca/github-demo/main/screenshot-register.png)
 
 ## Initial Setup
 
