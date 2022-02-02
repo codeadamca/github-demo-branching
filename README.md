@@ -2,7 +2,7 @@
 
 A demo GitHub repository for introducing students to Git and GitHub. You will need a GitHub account to proceed, make sure you [login](https://github.com/login) or [register](https://github.com/signup). 
 
-Please take a moment to notice that the registration page acts like the command line!
+Please take a moment to notice that the registration page acts like the command line! That's kind of awesome!
 
 IMAGE
 
@@ -50,4 +50,17 @@ cd <repositoryName>
 
 You are now setup and ready to follow the development cylcle instructions below.
 
-### 
+### Existing Project
+
+If the repositry already exists and you want to contribute to the project follow these steps:
+
+1. Provide your uasername to the programmer who owns the project. Ths owner will need to login to their GitHub account and follow these steps:
+
+ - Navigate to the repository
+ - Click ```Settings```
+ - Click ```Collaborators```
+ - Click the ```Add People``` button
+ - Enter the username
+ - Click ```Add <UserName> to this repository```
+
+IMAGE
