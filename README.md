@@ -18,11 +18,11 @@ If you are starting a brand new project that does not have a GitHub repository y
 
 2. Create a new GitHub repository. Give it a title using lowercase letters and dashes. Make it ```Public``` and Click ```Add a README file```.
 
-IMAGE
+![New Repository](https://raw.githubusercontent.com/codeadamca/github-demo/main/screenshot-new-repo.png)
 
 3. On the new repository page click the green ```Code``` button and copy the repository URL.
 
-IMAGE
+![Copy URL](https://raw.githubusercontent.com/codeadamca/github-demo/main/screenshot-code-url.png)
 
 4. Open up the Terminal or Command Prompt. If you do not have Git installed, [download and install GIT](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
@@ -64,7 +64,7 @@ If the repositry already exists and you want to contribute to the project follow
  - Enter the username
  - Click ```Add <UserName> to this repository```
 
-IMAGE
+![Collaborator](https://raw.githubusercontent.com/codeadamca/github-demo/main/screenshot-add-user.png)
 
 2. You will receive an email with the invitation details. Click ```View Invitation``` in the email and then ```Accept Invitation``` in the browser. You are not a contributor!
 
