@@ -103,7 +103,7 @@ git config user.email
 git config remote.origin.url
 ```
 
-We need to add a Personal Access Token to the origin URL to make sure you are authorized. In your browser, go to GitHub and follow these steps:
+We need to add a Personal Access Token to the origin URL to make sure you are authorized. In your browser, go to GitHub, and follow these steps:
 
 - Click on your profile avatar (top right)
 - Click on ```Settings```
@@ -123,17 +123,23 @@ You are now setup and ready to follow the development cycle instructions below!!
 
 ## Development Cycle
 
-Now that you have access to the repository and a local copy, it's time to make some changes!
+Now that you have access to the repository and a local copy, it's time to make some changes! 
 
-Open up the IDE of your choice. I will be using [Visual Studio Code](https://code.visualstudio.com/). Using your IDE open the folder that contains your repository. Also open up a terminal or command prompt and change the folder to the same repository. 
+Open up the IDE of your choice. I will be using [Visual Studio Code](https://code.visualstudio.com/). Using your IDE, open the folder that contains your repository. Also open up a terminal or command prompt and change the folder to the same repository. 
 
-1. In the terminal check on the Git status of your code:
+There are two primary methods of commiting a change to a repository:
+
+### Directly to Main Branch
+
+If you are working in a small group and everyone has access to the ```main``` branch, then group members can all make change and commit them directly to the ```main``` branch:
+
+1. In the terminal check on the status of your local repository:
 
 ```
 git status
 ```
 
-You will be given a summary of which branch you are working on and a list of files that have changed. At this point you should be on the branched called ```main``` and there should not be any changes that need to be commited. If there were changes, the files would be listed in red text.
+You will be given a summary of which branch you are working on and a list of files that have been changed. At this point you should be on a branch called ```main``` and there should not be any changes that need to be commited. If there were changes, the files would be listed in red text.
 
 ```
 On branch main
@@ -141,3 +147,23 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 ```
 
+2. Open up the files named ```main-content.md```. This is a [MarkDown](https://daringfireball.net/projects/markdown/) file! Using the table example add a row with your name and a portfolio URL (if you have one).
+
+3. In your terminal, commit the changes to the ```main``` branch:
+
+```
+git status
+git add .
+git commit -am "Add <Name> to content"
+git push origin main
+```
+
+If someone has made changes since you last downloaded the content of the repository you will need to first update your local copy:
+
+```
+git pull origin main
+```
+
+Congratulations! YOu have officially contributed to the ```github-demo``` repository. Checn out your GitHub home page and view your contributions calendar. You have a green square!
+
+### Pull Request
