@@ -13,3 +13,4 @@ We are going to make changes to this file and push them directly the the main br
 | Stefan Whittaker-Lee           |                                                              | 2020       |
 | Divish Ram                     |                                                              | 2020       |
 | Lawrence Lo                    |                                                              | 2020       |
+| Jane Doe | https://faker.ca | 2022 |
