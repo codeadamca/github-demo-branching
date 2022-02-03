@@ -8,5 +8,5 @@ We are going to make changes to this file and push them directly the the main br
 
 | Name                           | Portfolio                                                    | Year       |
 | ------------------------------ | ------------------------------------------------------------ | ---------- |
-| Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
 | Adam Thomas                    | https://codeadam.cs                                          | 2020       |
+| Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
