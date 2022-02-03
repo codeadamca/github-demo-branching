@@ -18,4 +18,10 @@ We are going to make changes to this file and push them directly the the main br
 | Dylan Bednar                   |                                                              | 2022       |
 | Lawrence Lo                    |                                                              | 2020       |
 | Jane Doe | https://faker.ca | 2022 |
-2
+| Karmugil Kalaiyarasan          | nil                                                          | 2022       |
+| Stefan Whittaker-Lee           |                                                              | 2020       |
+| Divish Ram                     |                                                              | 2020       |
+| Hardi Patel                    |                                                              | 2022
+| Lawrence Lo                    |                                                              | 2020       |
+| Justus Santanna                |                                                              | 2020       |
+
