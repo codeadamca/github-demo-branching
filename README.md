@@ -147,7 +147,7 @@ Your branch is up to date with 'origin/main'.
 nothing to commit, working tree clean
 ```
 
-2. Open up the files named ```main-content.md```. This is a [MarkDown](https://daringfireball.net/projects/markdown/) file! Using the table example add a row with your name and a portfolio URL (if you have one).
+2. Open up the files named ```main-content.md```. This is a [MarkDown](https://daringfireball.net/projects/markdown/) file! Using the table example, add a row with your name and a portfolio URL (if you have one).
 
 3. In your terminal, commit the changes to the ```main``` branch:
 
@@ -164,6 +164,64 @@ If someone has made changes since you last downloaded the content of the reposit
 git pull origin main
 ```
 
-Congratulations! YOu have officially contributed to the ```github-demo``` repository. Checn out your GitHub home page and view your contributions calendar. You have a green square!
+Congratulations! You have officially contributed to the ```github-demo``` repository. Checn out your GitHub home page and view your contributions calendar. You have a green square!
 
 ### Pull Request
+
+If one group member is responsible for merging all code, the other group members can make their code contributions and then submit pull requests. 
+
+1. In the terminal, create a new branch:
+
+```
+git branch <BranchName>
+```
+
+2. Checkout the new branch:
+
+```
+git checkout <BranchName>
+```
+
+3. Open up the files named ```branch-content.md```. Using the table example, add a row with your name and a portfolio URL (if you have one).
+
+4. Commit your changes:
+
+```
+git add .
+git commit -am "Add <Name> to content"
+git push origin <BranchName>
+```
+
+5. Your changes have been pushed to the <BranchName> branch in GitHub. You now need to create a ```Pull Request``` to request that your code be merged with the ```main``` branch. 
+ 
+After pushing to <BranchName> you will receive a message like this:
+ 
+ ```
+ Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 608 bytes | 608.00 KiB/s, done.
+Total 6 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas: 100% (4/4), completed with 3 local objects.
+remote: 
+remote: Create a pull request for 'reorder' on GitHub by visiting:
+remote:      https://github.com/codeadamca/github-demo/pull/new/reorder
+remote: 
+To https://github.com/codeadamca/github-demo.git
+ * [new branch]      reorder -> reorder
+ ```
+ 
+ Go to the recommended URL in a browser and click ```Create Pull Request```. 
+ 
+ 6. Now you can clean up your local repository:
+ 
+ ```
+ git checkout main
+ git merge <BranchName>
+ git branch <BranchName> -d
+ ```
+ 
+ Congratulations! You are ready to work in a team environment!
+ 
+ 
