@@ -10,6 +10,7 @@ We are going to make changes to this file and push them directly the the main br
 | ------------------------------ | ------------------------------------------------------------ | ---------- |
 | Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
 | Adam Thomas                    | https://codeadam.cs                                          | 2020       |
+| Karmugil Kalaiyarasan          | nil                                                          | 2022       |
 | Stefan Whittaker-Lee           |                                                              | 2020       |
 | Divish Ram                     |                                                              | 2020       |
 | Lawrence Lo                    |                                                              | 2020       |
