@@ -12,6 +12,7 @@ We are going to make changes to this file using a brach and pull request.
 | Name                           | Portfolio                                                    | Year       |
 | ------------------------------ | ------------------------------------------------------------ | ---------- |
 | Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
+| Jane Doe                       | https://faker.ca                                             | 2020       |
 | Adam Thomas                    | https://codeadam.cs                                          | 2020       |
 | Justus Santanna                | https://codeadam.cs                                          | 2020       |
 | Dylan Bednar                   |                                                              | 2022       |
