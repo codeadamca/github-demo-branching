@@ -224,4 +224,13 @@ To https://github.com/codeadamca/github-demo.git
  
  Congratulations! You are ready to work in a team environment!
  
- 
+ ## Tutorial Requirements:
+
+* [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
+* [GitHub](https://github.com/)
+* [Git](https://git-scm.com/)
+* [MarkDown](https://daringfireball.net/projects/markdown/
+
+<a href="https://codeadam.ca">
+<img src="https://codeadam.ca/images/code-block.png" width="100">
+</a>
