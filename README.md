@@ -95,7 +95,31 @@ git clone https://github.com/<YourUserName>/<RepositoryName>
 cd <repositoryName>
 ```
 
-You are now setup and ready to follow the development cylcle instructions below.
+8. Your ```github-demo``` folder contains a lot of Git settings. You can view these settings using the following commands:
+
+```
+git config user.name
+git config user.email
+git config remote.origin.url
+```
+
+We need to add a Personal Access Token to the origin URL to make sure you are authorized. In your browser, go to GitHub and follow these steps:
+
+- Click on your profile avatar (top right)
+- Click on ```Settings```
+- Click on ```Developer Settings``` (last option)
+- Click ```Personal Access Token```
+- Click ```Generate New Token```
+- Give the token a name, set the expiration to ```No Expiration```, and check off just ```repo```
+- Copy your new token and save it somewhere, GitHub will not redisplay this token
+
+In the terminal, run the following command to apply your Personal Access Token:
+
+```
+git remote set-url https://<PersonalAccessToken>@github.com/codeadamca/github-demo
+```
+
+You are now setup and ready to follow the development cycle instructions below!!
 
 ## Development Cycle
 
