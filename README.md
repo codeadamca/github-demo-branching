@@ -113,6 +113,8 @@ We need to add a Personal Access Token to the origin URL to make sure you are au
 - Give the token a name, set the expiration to ```No Expiration```, and check off just ```repo```
 - Copy your new token and save it somewhere, GitHub will not redisplay this token
 
+![Personal Access Token](https://raw.githubusercontent.com/codeadamca/github-demo/main/screenshot-token.png)
+
 In the terminal, run the following command to apply your Personal Access Token:
 
 ```
