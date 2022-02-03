@@ -8,9 +8,11 @@ We are going to make changes to this file and push them directly the the main br
 
 | Name                           | Portfolio                                                    | Year       |
 | ------------------------------ | ------------------------------------------------------------ | ---------- |
-| Adam Thomas                    | https://codeadam.cs                                          | 2020       |
 | Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
+| Adam Thomas                    | https://codeadam.cs                                          | 2020       |
+| Karmugil Kalaiyarasan          | nil                                                          | 2022       |
 | Stefan Whittaker-Lee           |                                                              | 2020       |
 | Divish Ram                     |                                                              | 2020       |
 | Lawrence Lo                    |                                                              | 2020       |
 | Josh Devenyi                   |                                                              | 2021       |
+| Jane Doe | https://faker.ca | 2022 |
