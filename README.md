@@ -1,4 +1,4 @@
-# github-demo
+# A GitHub Demo Repo
 
 This is a demo GitHub repository for introducing students to Git and GitHub. You will need a GitHub account to proceed. Make sure you [login](https://github.com/login) or [register](https://github.com/signup). 
 
