@@ -11,11 +11,11 @@ We are going to make changes to this file and push them directly the the main br
 | Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
 | Adam Thomas                    | https://codeadam.ca                                          | 2023       |
 | Yujia Wang                     |                                                              | 2023       |
-| Chijioke Nwagwu                | https://wisestme.com.        | 2023      |
+| Chijioke Nwagwu                | https://wisestme.com                                         | 2023       |
 | Anjali Mahida                  | anjalimahida.infinityfreeapp.com                             | 2023       |
 | Mike Huynh                     | https://Mikehuynh.ca                                         | 2023       |
 | Yujia Wang                     |                                                              | 2023       |
-| Chijioke Nwagwu                     | https://wisestme.com.
+| Chijioke Nwagwu                | https://wisestme.com                                         |            |
 | Anjali Mahida                  | anjalimahida.infinityfreeapp.com                             | 2023       |
 | Adam Thomas                    | https://codeadam.ca                                          | 2023       |
 
