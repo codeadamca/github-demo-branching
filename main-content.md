@@ -9,6 +9,10 @@ We are going to make changes to this file and push them directly the the main br
 | Name                           | Portfolio                                                    | Year       |
 | ------------------------------ | ------------------------------------------------------------ | ---------- |
 | Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
+<<<<<<< HEAD
+| Anjali Mahida                  | anjalimahida.infinityfreeapp.com                             | 2023       |
+=======
 | Adam Thomas                    | https://codeadam.ca                                          | 2023       |
 | Yujia Wang                     |                                                              | 2023       |
-| Chijioke Nwagwu                 | https://wisestme.com.      | 2023       |
+| Chijioke Nwagwu                     | https://wisestme.com.
+>>>>>>> 9638ecec8d1a28c15a4becce7f43153772c5e856
