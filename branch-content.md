@@ -12,6 +12,6 @@ We are going to make changes to this file using a brach and pull request.
 | Name                           | Portfolio                                                    | Year       |
 | ------------------------------ | ------------------------------------------------------------ | ---------- |
 | Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
+| Harsimran                      | devsingh-epizy.com                                           | 2012       |
 | MikeHuynh                      | https://Mikehuynh.ca                                         | 2023       |
 | Thomas                         | https://faker.ca                                             | 2023       | 
-
