@@ -13,5 +13,6 @@ We are going to make changes to this file and push them directly the the main br
 | Yujia Wang                     |                                                              | 2023       |
 | Mike Huynh                     | https://Mikehuynh.ca                                         | 2023       |
 | Chijioke Nwagwu                | https://wisestme.com                                         |            |
-| Anjali Mahida                  | http://anjalimahida.infinityfreeapp.com                      | 2023       |
-
+| Anjali Mahida                  | anjalimahida.infinityfreeapp.com                             | 2023       |
+| Harsimran Singh                | devsingh.epizy.com                                           | 2012       |
+>>>>>>> 4619d794470bdb5923bfac2072898fce07f71536
