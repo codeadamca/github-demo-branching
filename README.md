@@ -30,30 +30,31 @@ If you are starting a brand new project that does not have a GitHub repository y
 
 ```
 # Change directoy
-cd repository-name
+$ cd repository-name
 # Go back a folder
-cd ..
+$ cd ..
 # Go to the root drive
-cd /
+$ cd /
 ```
 
 6. In your working folder clone your new repository:
 
 ```
-git clone https://github.com/<GUTHUB_USERNAME>/<REPO_NAME>
+$ git clone https://github.com/<GUTHUB_USERNAME>/<REPO_NAME>
 ```
 
 7. This will create a new folder using the repository name. Change the direftory to that new folder:
 
 ```
-cd <repositoryName>
+$ cd <REPO_NAME>
 ```
 
 You are now setup and ready to follow the development cylcle instructions below.
 
 ### Existing Project
 
-If the repositry already exists and you want to contribute to the project follow these steps:
+If the 
+sitry already exists and you want to contribute to the project follow these steps:
 
 1. Provide your uasername to the programmer who owns the project. The owner will need to login to their GitHub account and follow these steps:
 
@@ -76,31 +77,31 @@ If the repositry already exists and you want to contribute to the project follow
 
 ```
 # Change directoy
-cd repository-name
+$ cd repository-name
 # Go back a folder
-cd ..
+$ cd ..
 # Go to the root drive
-cd /
+$ cd /
 ```
 
 6. In your working folder clone your new repository:
 
 ```
-git clone https://github.com/<YourUserName>/<RepositoryName>
+$ git clone https://github.com/<GITHUB_USER>/<REPO_NAME>
 ```
 
 7. This will create a new folder using the repository name. Change the direftory to that new folder:
 
 ```
-cd <repositoryName>
+$ cd <REPO_NAME>
 ```
 
 8. Your ```github-demo``` folder contains a lot of Git settings. You can view these settings using the following commands:
 
 ```
-git config user.name
-git config user.email
-git config remote.origin.url
+$ git config user.name
+$ git config user.email
+$ git config remote.origin.url
 ```
 
 We need to add a Personal Access Token to the origin URL to make sure you are authorized. In your browser, go to GitHub, and follow these steps:
@@ -118,7 +119,7 @@ We need to add a Personal Access Token to the origin URL to make sure you are au
 In the terminal, run the following command to apply your Personal Access Token:
 
 ```
-git remote set-url https://<PersonalAccessToken>@github.com/codeadamca/github-demo
+$ git remote set-url https://<PERSONAL_ACCESS_TOKEN>@github.com/codeadamca/github-demo
 ```
 
 You are now setup and ready to follow the development cycle instructions below!!
@@ -138,7 +139,7 @@ If you are working in a small group and everyone has access to the ```main``` br
 1. In the terminal check on the status of your local repository:
 
 ```
-git status
+$ git status
 ```
 
 You will be given a summary of which branch you are working on and a list of files that have been changed. At this point you should be on a branch called ```main``` and there should not be any changes that need to be commited. If there were changes, the files would be listed in red text.
@@ -154,16 +155,16 @@ nothing to commit, working tree clean
 3. In your terminal, commit the changes to the ```main``` branch:
 
 ```
-git status
-git add .
-git commit -am "Add <Name> to content"
-git push origin main
+$ git status
+$ git add .
+$ git commit -am "Add <GITHUB_USERNAME> to content"
+$ git push origin main
 ```
 
 If someone has made changes since you last downloaded the content of the repository you will need to first update your local copy:
 
 ```
-git pull origin main
+$ git pull origin main
 ```
 
 Congratulations! You have officially contributed to the ```github-demo``` repository. Checn out your GitHub home page and view your contributions calendar. You have a green square!
@@ -175,13 +176,13 @@ If one group member is responsible for merging all code, the other group members
 1. In the terminal, create a new branch:
 
 ```
-git branch <BranchName>
+$ git branch <BRANCH_NAME>
 ```
 
 2. Checkout the new branch:
 
 ```
-git checkout <BranchName>
+$ git checkout <BRANCH_NAME>
 ```
 
 3. Open up the files named ```branch-content.md```. Using the table example, add a row with your name and a portfolio URL (if you have one).
@@ -189,17 +190,17 @@ git checkout <BranchName>
 4. Commit your changes:
 
 ```
-git add .
-git commit -am "Add <Name> to content"
-git push origin <BranchName>
+$ git add .
+$ git commit -am "Add <GITHUB_USERNAME> to content"
+$ git push origin <BRANCH_NAME>
 ```
 
-5. Your changes have been pushed to the <BranchName> branch in GitHub. You now need to create a ```Pull Request``` to request that your code be merged with the ```main``` branch. 
+5. Your changes have been pushed to the <BRANCH_NAME> branch in GitHub. You now need to create a ```Pull Request``` to request that your code be merged with the ```main``` branch. 
  
-After pushing to <BranchName> you will receive a message like this:
+After pushing to <BRANCH_NAME> you will receive a message like this:
  
- ```
- Enumerating objects: 9, done.
+```
+Enumerating objects: 9, done.
 Counting objects: 100% (9/9), done.
 Delta compression using up to 8 threads
 Compressing objects: 100% (6/6), done.
@@ -211,22 +212,22 @@ remote: Create a pull request for 'reorder' on GitHub by visiting:
 remote:      https://github.com/codeadamca/github-demo/pull/new/reorder
 remote: 
 To https://github.com/codeadamca/github-demo.git
- * [new branch]      reorder -> reorder
- ```
+* [new branch]      reorder -> reorder
+```
  
- Go to the recommended URL in a browser and click ```Create Pull Request```. 
+Go to the recommended URL in a browser and click ```Create Pull Request```. 
  
- 6. Now you can clean up your local repository:
+6. Now you can clean up your local repository:
  
- ```
- git checkout main
- git merge <BranchName>
- git branch <BranchName> -d
- ```
+```
+$ git checkout main
+$ git merge <BRANCH_NAME>
+$ git branch <BRANCH_NAME> -d
+```
  
- Congratulations! You are ready to work in a team environment!
+Congratulations! You are ready to work in a team environment!
  
- ## Tutorial Requirements:
+## Tutorial Requirements:
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [GitHub](https://github.com/)
