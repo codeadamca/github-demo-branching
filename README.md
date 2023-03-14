@@ -40,7 +40,7 @@ cd /
 6. In your working folder clone your new repository:
 
 ```
-git clone https://github.com/<YourUserName>/<RepositoryName>
+git clone https://github.com/<GUTHUB_USERNAME>/<REPO_NAME>
 ```
 
 7. This will create a new folder using the repository name. Change the direftory to that new folder:
@@ -62,7 +62,7 @@ If the repositry already exists and you want to contribute to the project follow
  - Click ```Collaborators```
  - Click the ```Add People``` button
  - Enter the username
- - Click ```Add <UserName> to this repository```
+ - Click ```Add <GITHUB_USERNAME> to this repository```
 
 ![Collaborator](https://raw.githubusercontent.com/codeadamca/github-demo/main/screenshot-add-user.png)
 
