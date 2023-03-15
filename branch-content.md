@@ -17,5 +17,6 @@ We are going to make changes to this file using a brach and pull request.
 | Adam                           | https://codeadam.ca                                          | 2023       |
 | Harsimran                      | devsingh-epizy.com                                           | 2012       |
 | MikeHuynh                      | https://Mikehuynh.ca                                         | 2023       |
+| Dhaval                         | https://github.com/mi11dc                                    | 2023       |
 | Thomas                         | https://faker.ca                                             | 2023       |
 
