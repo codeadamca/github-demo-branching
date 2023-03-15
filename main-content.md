@@ -17,3 +17,4 @@ We are going to make changes to this file and push them directly the the main br
 | Anjali Mahida                  | anjalimahida.infinityfreeapp.com                             | 2023       |
 | Harsimran Singh                | devsingh.epizy.com                                           | 2012       |
 | Thomas                         | https://faker.ca                                             | 2023       |
+Pranay Mangal                    | codepranay.epizy.com     | 2023
