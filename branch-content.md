@@ -18,4 +18,8 @@ We are going to make changes to this file using a brach and pull request.
 | Harsimran                      | devsingh-epizy.com                                           | 2012       |
 | MikeHuynh                      | https://Mikehuynh.ca                                         | 2023       |
 | Simon Chung                    |simonchung.ca                                                 | 2023       |
-
+| Yan Wing Pang                  | http://ywpang.rf.gd/                                         | 2023       |
+| Dhaval                         | https://github.com/mi11dc                                    | 2023       |
+| Thomas                         | https://faker.ca                                             | 2023       |
+| Thomas Ben                     | https://epizy.codeadam.com                                   | 2023       |
+| William                        | https://faker.ca                                             | 2023       |
