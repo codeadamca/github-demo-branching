@@ -19,4 +19,5 @@ We are going to make changes to this file using a brach and pull request.
 | MikeHuynh                      | https://Mikehuynh.ca                                         | 2023       |
 | Dhaval                         | https://github.com/mi11dc                                    | 2023       |
 | Thomas                         | https://faker.ca                                             | 2023       |
+| William                        | https://faker.ca                                             | 2023       |
 
