@@ -22,5 +22,4 @@ We are going to make changes to this file and push them directly the the main br
 | Pranay Mangal      | code.epizy.com                   | 2023 |
 | Subhiksha          | https://subhiksha.ca             | 2023 |
 | Jim Lin-Dybner     | http://lindybner.com             | 2023 |
-
 | Dhaval             | https://github.com/mi11dc        | 2023 |
