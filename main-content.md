@@ -17,10 +17,21 @@ We are going to make changes to this file and push them directly the the main br
 | Anjali Mahida                  | anjalimahida.infinityfreeapp.com                             | 2023       |
 | Harsimran Singh                | devsingh.epizy.com                                           | 2012       |
 
+
 | Thomas                         | https://faker.ca                                             | 2023       |
 Pranay Mangal                    |code.epizy.com            |   2023
 | Michael Ayesa Momo| michaeljaems.com | 2023 | 
 
 | Subhiksha                      | https://subhiksha.ca                                         | 2023       |
 Pranay Mangal                    |code.epizy.com            |   2023
+
+
+| Thomas                         | https://faker.ca                                             | 2023       |
+
+| Simon Chung                    | https://simonchung.ca                                        | 2023       |
+
+=======
+| Thomas                         | https://brickmmo.com                                         | 2023       |
+| Pranay Mangal                  | code.epizy.com                                               | 2023       |
+| Subhiksha                      | https://subhiksha.ca                                         | 2023       |
 
