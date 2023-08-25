@@ -226,8 +226,10 @@ $ git branch <BRANCH_NAME> -d
 ```
  
 Congratulations! You are ready to work in a team environment!
- 
-## Tutorial Requirements:
+
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [GitHub](https://github.com/)
