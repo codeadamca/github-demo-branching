@@ -9,8 +9,9 @@ We are going to make changes to this file using a brach and pull request.
 5. Then push the changes to the branch with the same name
 6. Using GiutHub submit a pull request
 
-| Name        | Portfolio                 | Year |
-| ----------- | ------------------------- | ---- |
-| Sean Doyle  | https://screenplayweb.com | 2020 |
-| Adam Thomas | https://codeadam.ca       | 2023 |
-| Adam Thomas | https://faker.ca          | 2023 |
+| Name             | Portfolio                          | Year |
+| ---------------- | ---------------------------------- | ---- |
+| Sean Doyle       | https://screenplayweb.com          | 2020 |
+| Adam Thomas      | https://codeadam.ca                | 2023 |
+| Adam Thomas      | https://faker.ca                   | 2023 |
+| Milin Vaniyawala | https://github.com/MilinVaniyawala | 2023 |
