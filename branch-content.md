@@ -10,8 +10,8 @@ We are going to make changes to this file using a brach and pull request.
 6. Using GiutHub submit a pull request
 
 | Name        | Portfolio                 | Year |
-| ----------- | ------------------------- | ---- |
+| ----------- | ------------------------- | ---- | --- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
 | Adam Thomas | https://codeadam.ca       | 2023 |
 | Adam Thomas | https://faker.ca          | 2023 |
-| Kyle Scott  | 
+| Jiabao Ding | https://github.com/       | 2023 |     |
