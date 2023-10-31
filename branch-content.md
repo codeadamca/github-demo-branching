@@ -15,6 +15,7 @@ We are going to make changes to this file using a brach and pull request.
 | Sean Doyle                     | https://screenplayweb.com                                    | 2020       |
 | Suyash Kulkarni                | https://google.com                                           | 2023       |
 | Adam Thomas | https://codeadam.ca       | 2023 |
+| Ederes Gure | https://google.ca         | 2023 |
 | Erko Abdurahman | https://idkwhatimdoing.huh | 2023|
 | Bailey Liang | https://localhost         | 2023 |
 | Lovepreet Singh | [Lindkdin](https://www.linkedin.com/in/lovepreet-singh-b1771718a/)          | 2023 |
@@ -23,5 +24,3 @@ We are going to make changes to this file using a brach and pull request.
 | Lap Wang Wong | https://faker.ca          | 2023 |
 | Kyle Scott  | 
 | Kaverappa K U | https://github.com        | 2023 |
-
-
