@@ -13,6 +13,10 @@ We are going to make changes to this file using a brach and pull request.
 | ----------- | ------------------------- | ---- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
 | Adam Thomas | https://codeadam.ca       | 2023 |
+
+
+| Erko Abdurahman|https://idkwhatimdoing.huh| 2023|
+
 | Bailey Liang | https://localhost         | 2023 |
 | Lovepreet Singh | [Lindkdin](https://www.linkedin.com/in/lovepreet-singh-b1771718a/)          | 2023 |
 | Sion Lee | https://github.com/sionara | 2023 |
