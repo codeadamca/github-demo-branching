@@ -9,7 +9,6 @@ We are going to make changes to this file using a brach and pull request.
 5. Then push the changes to the branch with the same name
 6. Using GitHub submit a pull request
 
-
 | Name                                 | Portfolio                                              | Year |
 | ----------------------- | ------------------------------------------------------------------- | ---- |
 | Sean Doyle              | https://screenplayweb.com                                           | 2020 |
@@ -27,3 +26,4 @@ We are going to make changes to this file using a brach and pull request.
 | Lap Wang Wong           | https://faker.ca                                                    | 2023 |
 | Kyle Scott              |                                                                     | 2023 |
 | Kaverappa K U           | https://github.com                                                  | 2023 |
+| Ashim Shrestha | https://google.com          | 2023 |
