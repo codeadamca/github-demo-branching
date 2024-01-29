@@ -16,4 +16,6 @@ We are going to make changes to this file using a brach and pull request.
 | Adam Thomas  | https://faker.ca                               | 2024 |
 | Pavan Mistry | https://https://www.linkedin.com/in/pavan1003/ | 2023 |
 | Ayushi Behl  | https://aybehl.in                              | 2024 |
+| Navaneeth Krishnan | https://aliveordinary.me  | 2024 |
+
 
