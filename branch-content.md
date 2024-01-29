@@ -14,6 +14,7 @@ We are going to make changes to this file using a brach and pull request.
 | ----------- | ------------------------- | ---- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
 | Adam Thomas | https://codeadam.ca       | 2024 |
+| Kathan Patel| https://github.com/kathanpatel29 | 2024 |
 | Akash Sharma| https://www.google.com    | 2024 |
 | Amanpreet Kaur | http://AmanKaur1011    | 2024 |
 | Deryn Boscariol | https://github.com/DerynBoscariol | 2024 |
@@ -21,3 +22,4 @@ We are going to make changes to this file using a brach and pull request.
 | Ting Liu    | https://codeadam.ca       | 2024 |
 | Chi-Wei Yin | https://github.com/joeyin | 2024 |
 | Ozan Lago-Sereflioglu | https://github.com/ozanls						 | 2024 |
+
