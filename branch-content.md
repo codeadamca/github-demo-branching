@@ -9,8 +9,6 @@ We are going to make changes to this file using a brach and pull request.
 5. Then push the changes to the branch with the same name
 6. Using GitHub submit a pull request
 
-
-
 | Name           | Portfolio                                             | Year |
 | -------------- | ----------------------------------------------------- | ---- |
 | Sean Doyle     | https://screenplayweb.com                             | 2020 |
@@ -26,6 +24,8 @@ We are going to make changes to this file using a brach and pull request.
 | Neelima     | https://alliswell.ca | 2024 |
 | Evneet Kaur  | https://instagram.com                          | 2024 |
 | Rutisha  | https://www.linkedin.com/in/rutisha-patel-624b311b4/ | 2024 |
+| Alejandro Castro | https://alejandro-castro-portfolio.netlify.app/ | 2024 |
+
 
 
 
