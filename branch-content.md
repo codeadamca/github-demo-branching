@@ -21,7 +21,7 @@ We are going to make changes to this file using a brach and pull request.
 | Navaneeth Krishnan | https://aliveordinary.me  | 2024 |
 |Rosalia Sousa | https://rosesousac.com.do | 2024|
 | Saran | https://amazon.ca       | 2024 |
-| Jinil Parekh | https://aliveordinary.me  | 2024 |
+| Jinil Parekh | https://www.linkedin.com/in/jinil-parekh-b711521a4/  | 2024 |
 | Anish Patel | https://github.com/anish9243/anish9243.git | 2024 |
 | Neelima     | https://alliswell.ca | 2024 |
 | Evneet Kaur  | https://instagram.com                          | 2024 |
