@@ -17,4 +17,5 @@ We are going to make changes to this file using a brach and pull request.
 | Disha Kolapate | https://www.linkedin.com/in/disha-kolapate-937997216/ | 2024 |
 | Ayushi Behl    | https://aybehl.in                                     | 2024 |
 | Navaneeth Krishnan | https://aliveordinary.me  | 2024 |
+|Rosalia Sousa | https://rosesousac.com.do | 2024|
 | Saran | https://amazon.ca       | 2024 |
