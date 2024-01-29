@@ -13,3 +13,4 @@ We are going to make changes to this file using a brach and pull request.
 | ----------- | ------------------------- | ---- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
 | Adam Thomas | https://codeadam.ca       | 2024 |
+| Thurston Tran | https://linkedin.com | 2024 |
