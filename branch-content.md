@@ -9,6 +9,7 @@ We are going to make changes to this file using a brach and pull request.
 5. Then push the changes to the branch with the same name
 6. Using GitHub submit a pull request
 
+
 | Name           | Portfolio                                             | Year |
 | -------------- | ----------------------------------------------------- | ---- |
 | Sean Doyle     | https://screenplayweb.com                             | 2020 |
@@ -19,3 +20,4 @@ We are going to make changes to this file using a brach and pull request.
 | Navaneeth Krishnan | https://aliveordinary.me  | 2024 |
 |Rosalia Sousa | https://rosesousac.com.do | 2024|
 | Saran | https://amazon.ca       | 2024 |
+| Jinil Parekh | https://aliveordinary.me  | 2024 |
