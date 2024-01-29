@@ -25,7 +25,7 @@ We are going to make changes to this file using a brach and pull request.
 | Evneet Kaur  | https://instagram.com                          | 2024 |
 | Rutisha  | https://www.linkedin.com/in/rutisha-patel-624b311b4/ | 2024 |
 | Alejandro Castro | https://alejandro-castro-portfolio.netlify.app/ | 2024 |
-
+| Ozan Lago-Sereflioglu | https://github.com/ozanls						 | 2024 |
 
 
 
