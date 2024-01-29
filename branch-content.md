@@ -13,4 +13,5 @@ We are going to make changes to this file using a brach and pull request.
 | ------------ | ---------------------------------------------- | ---- |
 | Sean Doyle   | https://screenplayweb.com                      | 2020 |
 | Adam Thomas  | https://codeadam.ca                            | 2024 |
+| Adam Thomas  | https://faker.ca                               | 2024 |
 | Pavan Mistry | https://https://www.linkedin.com/in/pavan1003/ | 2023 |
