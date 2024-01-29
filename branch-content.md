@@ -13,6 +13,7 @@ We are going to make changes to this file using a brach and pull request.
 | ----------- | ------------------------- | ---- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
 | Adam Thomas | https://codeadam.ca       | 2024 |
+| Deryn Boscariol | https://github.com/DerynBoscariol | 2024 |
 | Jerry Jacob | https://www.linkedin.com/in/jerry-borges-jacob-0631b1211/ | 2024 |
 | Ting Liu    | https://codeadam.ca       | 2024 |
 
