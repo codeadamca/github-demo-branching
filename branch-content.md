@@ -13,4 +13,7 @@ We are going to make changes to this file using a brach and pull request.
 | -------------- | ----------------------------------------------------- | ---- |
 | Sean Doyle     | https://screenplayweb.com                             | 2020 |
 | Adam Thomas    | https://codeadam.ca                                   | 2024 |
+| Pavan Mistry   | https://https://www.linkedin.com/in/pavan1003/        | 2024 |
 | Disha Kolapate | https://www.linkedin.com/in/disha-kolapate-937997216/ | 2024 |
+| Ayushi Behl    | https://aybehl.in                                     | 2024 |
+| Navaneeth Krishnan | https://aliveordinary.me  | 2024 |
