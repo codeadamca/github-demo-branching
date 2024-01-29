@@ -27,4 +27,4 @@ We are going to make changes to this file using a brach and pull request.
 | Bhargav | https://github.com/bhargav1997    | 2024 |
 | Chi-Wei Yin | https://github.com/joeyin | 2024 |
 | Ozan Lago-Sereflioglu | https://github.com/ozanls						 | 2024 |
-
+| Ganga Suresh | https://github.com/Ganga-Suresh | 2024 |
