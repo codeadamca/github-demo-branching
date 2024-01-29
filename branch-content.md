@@ -12,4 +12,4 @@ We are going to make changes to this file using a brach and pull request.
 | Name        | Portfolio                 | Year |
 | ----------- | ------------------------- | ---- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
-| Adam Thomas | https://codeadam.ca       | 2024 |
+| Jinil Parekh | https://github.com/codeadamca/github-demo-branching      | 2024 |
