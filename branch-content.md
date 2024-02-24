@@ -10,8 +10,9 @@ We are going to make changes to this file using a brach and pull request.
 6. Using GitHub submit a pull request
 
 
-| Name               | Portfolio                                                | Year |
-| ------------------ | -------------------------------------------------------- | ---- |
+| Name        | Portfolio                   | Year |
+| ----------- | --------------------------- | ---- |
+| Mick Manuit | https://github.com/mikmok25 | 2024 |
 | Sean Doyle         | https://screenplayweb.com | 2020 |
 | Adam Thomas        | https://codeadam.ca       | 2024 |
 | Vaibhav Baria.     | https://vaibhavbaria.com  | 2024 |
