@@ -18,7 +18,7 @@ If you are starting a brand new project that does not have a GitHub repository y
 
 2. Create a new GitHub repository. Give it a title using lowercase letters and dashes. Make it ```Public``` and Click ```Add a README file```.
 
-![New Repository](_readme/screenshot-new-repo.png)
+  ![New Repository](_readme/screenshot-new-repo.png)
 
 3. On the new repository page click the green ```Code``` button and copy the repository URL.
 
