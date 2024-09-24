@@ -14,3 +14,4 @@ We are going to make changes to this file using a brach and pull request.
 | Sean Doyle  | https://screenplayweb.com | 2020 |
 | Adam Thomas | https://codeadam.ca       | 2024 |
 | Jerad Beau  | https://github.com/JeradBeauregard | 2024 |
+| Ken Sze     | https://github.com/ken-yksze | 2024 |
