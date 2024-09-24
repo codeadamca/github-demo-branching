@@ -25,3 +25,4 @@ We are going to make changes to this file using a brach and pull request.
 | Dhruv Shah    | https://github.com/DhruvShah28                          | 2024 |
 | Shashank Laur | https://github.com/shashanklaur                         | 2069 |
 | Adil Surve    | https://github.com/codeadamca/github-demo-branching.git | 2024 |
+| Kexin Sun    | https://kexinsun82.github.io/markdown-portfolio/ | 2024 |
