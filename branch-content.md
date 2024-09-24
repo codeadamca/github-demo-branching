@@ -13,3 +13,15 @@ We are going to make changes to this file using a brach and pull request.
 | ----------- | ------------------------- | ---- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
 | Adam Thomas | https://codeadam.ca       | 2024 |
+
+| Name          | Portfolio                                               | Year |
+| ------------- | ------------------------------------------------------- | ---- |
+| Sean Doyle    | https://screenplayweb.com                               | 2020 |
+| Adam Thomas   | https://codeadam.ca                                     | 2024 |
+| Hima Agarwal  | https://github.com/MooDevArts                           | 2024 |
+| Jerad Beau    | https://github.com/JeradBeauregard                      | 2024 |
+| Genevieve Awa | https://awsactivators.github.io                         | 2024 |
+| Rohit kumar   | https://github.com/Coderohitk                           | 2024 |
+| Dhruv Shah    | https://github.com/DhruvShah28                          | 2024 |
+| Shashank Laur | https://github.com/shashanklaur                         | 2069 |
+| Adil Surve    | https://github.com/codeadamca/github-demo-branching.git | 2024 |
