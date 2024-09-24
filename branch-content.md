@@ -16,3 +16,4 @@ We are going to make changes to this file using a brach and pull request.
 | Hima Agarwal | https://github.com/MooDevArts | 2024 |
 | Jerad Beau  | https://github.com/JeradBeauregard | 2024 |
 | Genevieve Awa | https://awsactivators.github.io | 2024 |
+| Rohit kumar |https://github.com/Coderohitk| 2024|
