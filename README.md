@@ -236,6 +236,7 @@ Congratulations! You are ready to work in a team environment!
 * [Git](https://git-scm.com/)
 * [MarkDown](https://daringfireball.net/projects/markdown/)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
