@@ -1,1 +1,31 @@
+# Ignore system and application files
+.anaconda/
+.bash_history
+.conda/
+.condarc
+.continuum/
+.dotnet/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.lesshst
+.nuget/
+.quokka/
+.viminfo
+.vscode/
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
 .DS_Store
