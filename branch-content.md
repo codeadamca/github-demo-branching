@@ -2,7 +2,7 @@
 
 We are going to make changes to this file using a brach and pull request.
 
-1. Create a new branch
+1. Create a new branch - Check.com
 2. Switch to the new branch
 3. Add your name and portfolio link to the list below
 4. Commit the changes
