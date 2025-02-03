@@ -18,6 +18,9 @@ We need a sentence here!
 
 | Name          | Portfolio                                               | Year |
 | ------------- | ------------------------------------------------------- | ---- |
+
+| Hetul         | https://github.com/hetul0012/hetul-portfolio-2024.git   | 2025 |
+
 | Adam          | https://codeadam.ca                                     | 2025 |
 | Saumil        | https://github.com/patelsaumil                          | 2025 |
 | Parjad        | https://parjadm.github.io/markdown-portfolio/           | 2025 |
@@ -25,4 +28,5 @@ We need a sentence here!
 | Tarun         | https://shokeent.github.io/markdown-portfolio/          | 2025 |
 | Yao           | https://github.com/yaoolee/markdown-portfolio           | 2025 |
 | Gulzar Fatima | https://gulzarfatima.framer.ai/                         | 2025 |
+
 
