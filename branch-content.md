@@ -20,3 +20,4 @@ We need a sentence here!
 | ------------- | ------------------------------------------------------- | ---- |
 | Adam          | https://codeadam.ca                                     | 2025 |
 | Parjad        | https://parjadm.github.io/markdown-portfolio/           | 2025 |
+| Fadel         | https://fastodigama.github.io/resume/                   | 2025 |
