@@ -20,4 +20,7 @@ We need a sentence here!
 | ------------- | ------------------------------------------------------- | ---- |
 | Adam          | https://codeadam.ca                                     | 2025 |
 | Parjad        | https://parjadm.github.io/markdown-portfolio/           | 2025 |
-| Yaqoob        | https://github.com/Humber-Yaqoob/                       | 2025 |
+| Tarun         | https://shokeent.github.io/markdown-portfolio/          | 2025 |
+| Yao           | https://github.com/yaoolee/markdown-portfolio           | 2025 |
+| Gulzar Fatima | https://gulzarfatima.framer.ai/                         | 2025 |
+| YAQOOB        | https://code.yaqoob.com/                                | 2025 |
