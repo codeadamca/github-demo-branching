@@ -18,5 +18,4 @@ We need a sentence here!
 
 | Name          | Portfolio                                               | Year |
 | ------------- | ------------------------------------------------------- | ---- |
-| Adam          | https://codeadam.ca                                     | 2025 |
-| Parjad        | https://parjadm.github.io/markdown-portfolio/           | 2025 |
+| Priyank Shah  | https://priyankshah0101.wixstudio.com/portfolio         | 2025 |
