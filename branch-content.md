@@ -9,6 +9,8 @@ We are going to make changes to this file using a brach and pull request.
 5. Then push the changes to the branch with the same name
 6. Using GitHub submit a pull request
 
+We need a sentence here!
+
 | Name        | Portfolio                 | Year |
 | ----------- | ------------------------- | ---- |
 | Sean Doyle  | https://screenplayweb.com | 2020 |
@@ -16,4 +18,8 @@ We are going to make changes to this file using a brach and pull request.
 
 | Name          | Portfolio                                               | Year |
 | ------------- | ------------------------------------------------------- | ---- |
+<<<<<<< HEAD
 |Pallavi Kandikanti |  https://github.com/codeadamca/github-demo-branching.git | 2025 |
+=======
+| Gulzar Fatima         | https://gulzarfatima.framer.ai/                  2025 |
+>>>>>>> 26abdead2725d181f0416bfac196c73e7f4359a4
