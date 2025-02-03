@@ -24,3 +24,4 @@ We need a sentence here!
 | Tarun         | https://shokeent.github.io/markdown-portfolio/          | 2025 |
 | Yao           | https://github.com/yaoolee/markdown-portfolio           | 2025 |
 | Gulzar Fatima | https://gulzarfatima.framer.ai/                         | 2025 |
+|  Mohd Omair   | https://github.com/codeadamca/github-demo-branching.git | ---- |
