@@ -18,5 +18,4 @@ We need a sentence here!
 
 | Name          | Portfolio                                               | Year |
 | ------------- | ------------------------------------------------------- | ---- |
-| Adam          | https://codeadam.ca                                     | 2025 |
 | Hetul         | https://github.com/hetul0012/hetul-portfolio-2024.git   | 2025 |
